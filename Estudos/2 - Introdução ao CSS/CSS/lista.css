@@ -1,0 +1,9 @@
+ul{
+    border: 1px solid crimson;
+    padding: 10px;
+}
+
+li{
+    color:darkgreen;
+    font-size: 30px;
+}

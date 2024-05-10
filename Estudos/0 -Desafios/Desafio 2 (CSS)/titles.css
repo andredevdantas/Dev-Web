@@ -1,0 +1,21 @@
+h1{
+    color: darkorchid;
+    border-bottom: 1px solid black;
+}
+
+h2{
+    font-size: 40px;
+    font-style: italic;
+    color: darkgoldenrod;
+    background-color: aqua;
+}
+
+h3{
+    border: 2px solid chartreuse;
+    font-style: inherit;
+}
+
+h4{
+    border-left: 10px solid rgb(255, 0, 43);
+    color: rgb(0, 0, 0);
+}

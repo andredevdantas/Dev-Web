@@ -1,0 +1,16 @@
+#box-model{
+    color: aquamarine;
+    background-color: black;
+    width: 200px;
+    height: 400px;
+    padding: 25px;
+    border: 4px solid gold;
+    outline: 4px solid crimson;
+    border-radius: 25px;
+    margin: 25px 45px;
+}
+
+.texto{
+    color: rgb(129, 48, 1);
+    background-color: rgb(255, 0, 0);
+}
